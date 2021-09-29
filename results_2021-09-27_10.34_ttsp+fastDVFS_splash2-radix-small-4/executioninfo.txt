@@ -1,0 +1,5 @@
+started:    2021-09-27 22:24:05
+ended:      2021-09-27 22:28:24
+duration:   0:04:18.658636
+host:       de880c80507e
+tasks:      splash2-radix-small-4
