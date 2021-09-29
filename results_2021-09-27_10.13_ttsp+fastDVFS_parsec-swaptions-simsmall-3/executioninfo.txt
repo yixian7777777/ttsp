@@ -1,0 +1,5 @@
+started:    2021-09-27 11:24:48
+ended:      2021-09-27 12:09:33
+duration:   0:44:44.612027
+host:       34bfc160642e
+tasks:      parsec-swaptions-simsmall-3
