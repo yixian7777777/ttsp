@@ -1,0 +1,5 @@
+started:    2021-09-27 13:18:34
+ended:      2021-09-27 15:11:05
+duration:   1:52:31.649240
+host:       de880c80507e
+tasks:      splash2-barnes-small-4
